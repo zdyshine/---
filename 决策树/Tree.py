@@ -2,7 +2,8 @@
 """
 Created on Sat Apr  6 10:48:20 2019
 
-@author: jxufe
+@author: zdy
+@time: 2019-4-6
 """
 
 from sklearn.feature_extraction import DictVectorizer
